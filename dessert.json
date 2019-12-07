@@ -1,0 +1,57 @@
+[
+
+    {
+        "_id": "DM01",
+        "Name": "Laddoo",
+        "Price": 5.99,
+        "Description": "Laddoo is a sweet sphere dessert made up of flour,fat(butter/ghee/oil) and sugar and also ingredients like chopped  nuts or dried raisins."
+    },
+    {
+        "_id": "DM02",
+        "Name": "Rasmalai",
+        "Price": 4.99,
+        "Description": "Rasmalai is Bengali dessert made with cheese being soaked in sweet,flavoured milk."
+    },
+    {
+        "_id": "DM03",
+        "Name": "Gulab Jamun",
+        "Price": 5.99,
+        "Description": "This is spongy milky balls soaked in rose scented syrup with stir together ingredients like milk powder,flour,baking powder and cardomom."
+    },
+    {
+        "_id": "DM04",
+        "Name": "Coconut Laddoo",
+        "Price": 12.99,
+        "Description": "coconut laddoos are delicious sweetened balls made with coconut,cardomom powder and milk"
+    },
+    {
+        "_id": "DM05",
+        "Name": "Barfi",
+        "Price": 4.99,
+        "Description": "barfi or Burfi is  a dense milk based sweet  from indian subcontinent having main ingredients condensed milk and sugar."
+    },
+    {
+        "_id": "DM06",
+        "Name": "Chamcham",
+        "Price": 6.99,
+        "Description": "Made with curdling milk and shaped in cylinderical shape peices.these are cooked in sugar syrup to get a soft,light,spongy texture"
+    },
+    {
+        "_id": "DM07",
+        "Name": "Gajrela",
+        "Price": 8.99,
+        "Description": "Filled with goodness of carrots,dry fruits and nuts,Gajrela is made with fresh,scullent carrots,milk and butter"
+    },
+    {
+        "_id": "DM08",
+        "Name": "Petha",
+        "Price": 15.99,
+        "Description": "Petha is a translucent soft candy in a rectagular and cylindrical shape made from ash ground vegtables such as white melon or white pumpkin"
+    },
+    {
+        "_id": "DM09",
+        "Name": "Sohan Papdi",
+        "Price": 15.99,
+        "Description": "It is a popular dessert having crispy and flaky texture also called sohan halwa made with besan,flour,ghee and sugar"
+    }
+     ]
